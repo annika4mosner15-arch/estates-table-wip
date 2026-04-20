@@ -1,0 +1,1 @@
+WIP for dataset for estates: In a small project we created a dataset based on Rosemarie Aulinger's 1980s "Liste der Reichsstände" (in Aulinger, R. Das Bild des Reichstages im 16. Jahrhundert. Schriftenreihe der Historischen Kommission 18. Göttingen 1980, 358ff.)
